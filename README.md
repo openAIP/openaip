@@ -1,2 +1,2 @@
 # openaip-public
-Public issue tracker of www.openaip.net.
+Public issue tracker of staging.openaip.net.
